@@ -45,10 +45,11 @@ notestakerapp/
 ├── package.json
 └── README.md
 
+```
+
+---
 
 ## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/Jagannath-Roy/notestakerapp.git
@@ -57,52 +58,56 @@ npm install
 node index.js
 http://localhost:3000
 
+```
+
+---
 
 ## Usage
 
-Open the browser and go to http://localhost:3000
+- Open the browser and go to http://localhost:3000
 
-Enter a title and description for your note
+- Enter a title and description for your note
 
-Click Create
+- Click Create
 
-Your note will appear as a card below
+- Your note will appear as a card below
 
-Click Read More to view the full note
+- Click Read More to view the full note
 
-Use Edit to modify the note if needed
+- Use Edit to modify the note if needed
 
+---
 
+## Future Improvements
 
+- Delete notes feature
 
-##Future Improvements
+- Search and filter notes
 
-Delete notes feature
+- Markdown support
 
-Search and filter notes
+- User authentication
 
-Markdown support
+- Cloud database integration (MongoDB / Firebase)
 
-User authentication
+---
 
-Cloud database integration (MongoDB / Firebase)
+## Contributing
 
+- Contributions are welcome!
 
-##Contributing
+- Fork the repository
 
-Contributions are welcome!
+- Create a feature branch (feature/new-feature)
 
-Fork the repository
+- Commit your changes
 
-Create a feature branch (feature/new-feature)
+- Push to the branch
 
-Commit your changes
+- Open a Pull Request
 
-Push to the branch
+---
 
-Open a Pull Request
-
-
-##License
+## License
 
 This project is licensed under the MIT License.
