@@ -52,7 +52,7 @@ notestakerapp/
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/Jagannath-Roy/notestakerapp.git
+git clone https://github.com/Jagannath-Roy/Notes-Taker-APP.git
 cd notestakerapp
 npm install
 node index.js
